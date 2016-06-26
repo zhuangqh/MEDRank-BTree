@@ -2,7 +2,7 @@
 
 Download TRAINING SET IMAGE FILE (train-images-idx3-ubyte.gz) as dataset, 
 and select the first 100 queries from TEST SET IMAGE FILE (t10k-images-idx3-ubyte.gz) as query set
-from [](http://yann.lecun.com/exdb/mnist/).
+from [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/).
 
 Rename the dataset as Mnist.ds, the queryset as Mnist.q.
 
